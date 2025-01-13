@@ -1,0 +1,17 @@
+
+Privacy Policy for AI News Buddy
+
+Data Collection:
+This extension stores the OpenAI API key provided by the user in Chrome's secure storage to enable interaction with the OpenAI API.
+The content of the webpage being analyzed is sent to the OpenAI API for processing.
+Data Usage:
+The API key is used solely to authenticate requests to the OpenAI API and is not shared with any third parties.
+The content of the analyzed webpage is sent securely to OpenAI's servers for the sole purpose of generating bias and accuracy analysis.
+Data Sharing:
+No data collected by this extension is sold, shared, or transferred to any third parties outside of the OpenAI API interaction.
+User Control:
+Users can delete their API key at any time by clearing their Chrome storage.
+Security:
+Data is stored using Chrome's secure storage.sync and transmitted securely using HTTPS.
+Contact Information:
+For questions or concerns, contact: jennifer.b.kleiman@gmail.com
